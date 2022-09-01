@@ -1,0 +1,13 @@
+((after adj3 stroke) or (post adj3 stroke) or poststroke or post-stroke or (follow* adj3 stroke)).ti,ab,hw,kf.        55513
+((cogniti* adj3 impair*) or (cogniti* adj3 test*) or (cogniti* adj3 function*) or (cogniti* adj3 perform*) or (cogniti* adj3 status*) or (cogniti* adj3 decline*) or (memory adj3 impair*) or (memory adj3 test*) or dementia or MMSE or "mini-mental state exam*" or "minimental state exam*").ti,ab,hw,kf.        346259
+exp Neuropsychological Tests/        190489
+cognitive dysfunction/ or dementia/        87288
+2 or 3 or 4        479442
+1 and 5        5476
+PSCI.ti,ab,hw,kf.        253
+6 or 7        5536
+recurrence/ or mortality/ or mortality.fs. or secondary prevention/ or exp death/        1007765
+((recur* adj3 stroke*) or (second* adj3 stroke*) or (repeat* adj3 stroke*) or mortality or death* or fatal* or survival).ti,ab,hw,kf.        3007404
+9 or 10        3337422
+8 and 11        961
+12 not (exp animals/ not humans.sh.)        878
