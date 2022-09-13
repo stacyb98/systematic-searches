@@ -1,11 +1,7 @@
 TITLE-ABS-KEY(after W/3 stroke) or TITLE-ABS-KEY(post W/3 stroke) or TITLE-ABS-KEY(poststroke) or TITLE-ABS-KEY(post-stroke) or TITLE-ABS-KEY(follow* W/3 stroke)        
 TITLE-ABS-KEY(cogniti* W/3 impair*) or TITLE-ABS-KEY(cogniti* W/3 test*) or TITLE-ABS-KEY(cogniti* W/3 function*) or TITLE-ABS-KEY(cogniti* W/3 perform*) or TITLE-ABS-KEY(cogniti* W/3 status*) or TITLE-ABS-KEY(cogniti* W/3 decline*) or TITLE-ABS-KEY(memory W/3 impair*) or TITLE-ABS-KEY(memory W/3 test*) or TITLE-ABS-KEY(dementia) or TITLE-ABS-KEY(MMSE) or TITLE-ABS-KEY("mini-mental state exam*") or TITLE-ABS-KEY("minimental state exam*") or TITLE-ABS-KEY("Montreal Cognitive Assessment") or TITLE-ABS-KEY(MoCA) or TITLE-ABS-KEY("Informant Questionnaire on Cognitive Decline in the Elderly") or TITLE-ABS-KEY(IQCODE) OR TITLE-ABS-KEY(Neuropsychological W/3 Test*) OR TITLE-ABS-KEY(cognitive* W/3 dysfunction*)
-5        2 or 3 or 4        480510
-6        1 and 5        5513
-7        PSCI.ti,ab,hw,kf.        253
-8        6 or 7        5573
-9        recurrence/ or mortality/ or mortality.fs. or secondary prevention/ or exp death/        1007864
-10        ((recur* adj3 stroke*) or (second* adj3 stroke*) or (repeat* adj3 stroke*) or mortality or death* or fatal* or survival).ti,ab,hw,kf.        3009113
-11        9 or 10        3339177
-12        8 and 11        962
-13        12 not (exp animals/ not humans.sh.)        879
+1 AND 2
+TITLE-ABS-KEY(PSCI)
+3 or 4
+TITLE-ABS-KEY(recur* W/3 stroke*) or TITLE-ABS-KEY(second* W/3 stroke*) or TITLE-ABS-KEY(repeat* W/3 stroke*) or TITLE-ABS-KEY(mortality) or TITLE-ABS-KEY(death*) or TITLE-ABS-KEY(fatal*) or TITLE-ABS-KEY(survival)
+5 AND 6
