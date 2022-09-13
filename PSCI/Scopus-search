@@ -1,7 +1,5 @@
 TITLE-ABS-KEY(after W/3 stroke) or TITLE-ABS-KEY(post W/3 stroke) or TITLE-ABS-KEY(poststroke) or TITLE-ABS-KEY(post-stroke) or TITLE-ABS-KEY(follow* W/3 stroke)        
-TITLE-ABS-KEY(cogniti* adj3 impair*) or TITLE-ABS-KEY(cogniti* adj3 test*) or TITLE-ABS-KEY(cogniti* adj3 function*) or TITLE-ABS-KEY(cogniti* adj3 perform*) or TITLE-ABS-KEY(cogniti* adj3 status*) or TITLE-ABS-KEY(cogniti* adj3 decline*) or TITLE-ABS-KEY(memory adj3 impair*) or TITLE-ABS-KEY(memory adj3 test*) or TITLE-ABS-KEY(dementia) or TITLE-ABS-KEY(MMSE) or TITLE-ABS-KEY("mini-mental state exam*") or TITLE-ABS-KEY("minimental state exam*") or TITLE-ABS-KEY("Montreal Cognitive Assessment") or TITLE-ABS-KEY(MoCA) or TITLE-ABS-KEY("Informant Questionnaire on Cognitive Decline in the Elderly") or TITLE-ABS-KEY(IQCODE)
-3        exp Neuropsychological Tests/        190527
-4        cognitive dysfunction/ or dementia/        87405
+TITLE-ABS-KEY(cogniti* W/3 impair*) or TITLE-ABS-KEY(cogniti* W/3 test*) or TITLE-ABS-KEY(cogniti* W/3 function*) or TITLE-ABS-KEY(cogniti* W/3 perform*) or TITLE-ABS-KEY(cogniti* W/3 status*) or TITLE-ABS-KEY(cogniti* W/3 decline*) or TITLE-ABS-KEY(memory W/3 impair*) or TITLE-ABS-KEY(memory W/3 test*) or TITLE-ABS-KEY(dementia) or TITLE-ABS-KEY(MMSE) or TITLE-ABS-KEY("mini-mental state exam*") or TITLE-ABS-KEY("minimental state exam*") or TITLE-ABS-KEY("Montreal Cognitive Assessment") or TITLE-ABS-KEY(MoCA) or TITLE-ABS-KEY("Informant Questionnaire on Cognitive Decline in the Elderly") or TITLE-ABS-KEY(IQCODE) OR TITLE-ABS-KEY(Neuropsychological W/3 Test*) OR TITLE-ABS-KEY(cognitive* W/3 dysfunction*)
 5        2 or 3 or 4        480510
 6        1 and 5        5513
 7        PSCI.ti,ab,hw,kf.        253
