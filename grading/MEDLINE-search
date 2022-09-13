@@ -1,0 +1,15 @@
+(residency adj3 admi*).ti,ab,hw,kf.	
+(residency adj3 applic*).ti,ab,hw,kf.	
+(residency adj3 match*).ti,ab,hw,kf.	
+(residency adj3 select*).ti,ab,hw,kf.	
+1 or 2 or 3 or 4	
+(PD or PDs or (program adj3 director*)).ti,ab,hw,kf.	
+5 and 6	
+(grade* or grading or assess* or evaluat*).ti.	
+("medical school" or UME or UGME or "undergraduate medical education" or clerkship*).ti,ab,hw,kf. or Education, Medical, Undergraduate/ or Clinical Clerkship/	
+8 and 9	
+(grade* or grading).ti. or "pass/fail".ti,ab.	
+9 and 11	
+5 and 6 and 12	
+5 and 6 and 11	
+14 not 13	
