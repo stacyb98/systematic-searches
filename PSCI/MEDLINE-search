@@ -1,13 +1,19 @@
-((after adj3 stroke) or (post adj3 stroke) or poststroke or post-stroke or (follow* adj3 stroke)).ti,ab,hw,kf.	55691
-((cogniti* adj3 impair*) or (cogniti* adj3 test*) or (cogniti* adj3 function*) or (cogniti* adj3 perform*) or (cogniti* adj3 status*) or (cogniti* adj3 decline*) or (memory adj3 impair*) or (memory adj3 test*) or dementia or MMSE or "mini-mental state exam*" or "minimental state exam*" or "Montreal Cognitive Assessment" or MoCA or "Informant Questionnaire on Cognitive Decline in the Elderly" or IQCODE or (neuropsychological adj3 test*) or (cognitive* adj3 dysfunction*)).ti,ab,hw,kf.	413137
-exp Neuropsychological Tests/	190610
-cognitive dysfunction/ or dementia/	87468
-2 or 3 or 4	489988
-1 and 5	5636
-PSCI.ti,ab,hw,kf.	256
-6 or 7	5696
-recurrence/ or mortality/ or mortality.fs. or secondary prevention/ or exp death/	1008041
-((recur* adj3 stroke*) or (second* adj3 stroke*) or (repeat* adj3 stroke*) or mortality or death* or fatal* or survival).ti,ab,hw,kf.	3014142
-9 or 10	3344280
-8 and 11	986
-12 not (exp animals/ not humans.sh.)	899
+Ovid MEDLINE(R) ALL / PubMed(R) <1946 to Present>
+(((after or post or rehab* or follow* or survivor*) adj3 stroke) or ((after or post or rehab* or follow* or survivor*) adj3 tia) or ((after or post or rehab* or follow* or survivor*) adj3 (transient adj3 isch?emic adj3 attack)) or ((after or post or rehab* or follow* or survivor*) adj3 (brain adj3 isch?emi$2)) or ((after or post or rehab* or follow* or survivor*) adj3 (brain adj3 infarct*)) or ((after or post or rehab* or follow* or survivor*) adj3 (cerebr* adj3 isch?emi$2)) or ((after or post or rehab* or follow* or survivor*) adj3 (cerebr* adj3 infarct*)) or ((after or post or rehab* or follow* or survivor*) adj3 CVA$1) or ((after or post or rehab* or follow* or survivor*) adj3 cerebrovasc*) or poststroke or post-stroke).ti,ab,hw,kf.        80707 <post-stroke>
+Stroke Rehabilitation/ or exp Brain Ischemia/rh or exp Stroke/rh        17254 <post-stroke>
+1 or 2        81072 <post-stroke>
+((cogniti* adj3 impair*) or (cogniti* adj3 disorder*) or (cogniti* adj3 exam*) or (cogniti* adj3 test*) or (cogniti* adj3 function*) or (cogniti* adj3 perform*) or (cogniti* adj3 status*) or (cogniti* adj3 decline*) or (memory adj3 impair*) or (memory adj3 test*) or dementia or MMSE or "mini-mental state exam*" or "mini mental state exam*" or "minimental state exam*" or "Montreal Cognitive Assessment" or MoCA or "Informant Questionnaire on Cognitive Decline in the Elderly" or IQCODE or (neuropsychological adj3 test*) or (cognitive* adj3 dysfunction*)).ti,ab,hw,kf.        436358 <cognitive impairment>
+exp Neuropsychological Tests/ or cognitive dysfunction/ or dementia/ or cognition/ or cognition disorders/        383916 <cognitive impairment>
+4 or 5        570504 <cognitive impairment>
+3 and 6        7856 <post-stroke cognitive impairment>
+PSCI.ti,ab,hw,kf.        256 <post-stroke cognitive impairment>
+7 or 8        7916 <post-stroke cognitive impairment>
+recurrence/ or mortality/ or mortality.fs. or secondary prevention/ or exp death/ or survival analysis/        1072289 <recurrence or mortality>
+(recur* or second* or repeat* or mortality or death* or fatal* or survival).ti,ab,hw,kf.        5812925 <recurrence or mortality>
+10 or 11        5956210 <recurrence or mortality>
+9 and 12        2272 <post-stroke cognitive impairment AND (recurrence or mortality)>
+exp cohort studies/ or prognosis/ or morbidity/ or "natural history".ti,ab. or prognost*.ti,ab. or course.ti,ab. or predict*.ti,ab. or outcome*.ti,ab. or cohort*.ti,ab. or disease progression/ or longitudinal.ti,ab. or trajector*.ti,ab.        6401353 <prognosis source: https://library.medicine.yale.edu/tutorials/577>
+13 and 14        1446 <post-stroke cognitive impairment AND (recurrence or mortality) w/ prognosis filter>
+15 not (exp animals/ not humans.sh.)        1381 <post-stroke cognitive impairment AND (recurrence or mortality) w/ prognosis and human studies filter>
+(desmond dw or (patel m or patel md) or obaid m or tatemichi tk).au.        4546 <key authors checksum>
+16 and 17        17 <key authors checksum>
