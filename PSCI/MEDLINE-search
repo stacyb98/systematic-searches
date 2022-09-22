@@ -1,3 +1,25 @@
+Ovid MEDLINE(R) ALL / PubMed(R) <1946 to Present>
+
+1	exp stroke/	163532
+2	stroke.mp.	350562
+3	((brain or cerebral) adj3 (isch?emi$2 or infarct*)).ti,ab,kf.	78586
+4	("Cerebral vascular accident*" or "cerebrovascular accident*" or CVA*).ti,ab,kf.	12968
+5	1 or 2 or 3 or 4	419296
+6	dementia, vascular/	5440
+7	(MMSE or "mini-mental state exam*" or "mini mental state exam*" or "minimental state exam*" or "Montreal Cognitive Assessment" or MoCA or "Informant Questionnaire on Cognitive Decline in the Elderly" or IQCODE).ti,ab,kf.	25904
+8	Neuropsychological Tests/ or "Memory and Learning Tests"/	101977
+9	cogniti*.mp.	543302
+10	6 or 7 or 8 or 9	589956
+11	5 and 10	22641
+12	(((subsequent* or second or twice or repeat* or previous* or prior or history or recur* or initial* or multiple) adj2 (stroke* or "Cerebral vascular accident*" or "cerebrovascular accident*" or CVA*)) or ((subsequent* or second or twice or repeat* or previous* or prior or history or recur* or initial* or multiple) adj2 ((brain or cerebral) adj3 (isch?emi$2 or infarct*)))).mp. or Recurrence/	216365
+13	(mortality or death* or fatal* or survival).mp.	3116919
+14	12 or 13	3286299
+15	11 and 14	4735
+16	15 not (exp animals/ not humans.sh.)	4230
+
+https://proxygw.wrlc.org/login?url=http://ovidsp.ovid.com/ovidweb.cgi?T=JS&NEWS=N&PAGE=main&SHAREDSEARCHID=719fymVEEQFuEbUNuvOEdoUZ7kNgtWaRkhGwyKkmMnegxv3vCV7jekE3edxmccGUi
+
+
 exp stroke/ 
 stroke.mp 
 ((brain or cerebral) adj3 (isch?emi$2 or infarct*)).ti,ab,kf.
