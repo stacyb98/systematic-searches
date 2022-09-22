@@ -1,20 +1,18 @@
-Ovid MEDLINE(R) ALL / PubMed(R) <1946 to Present>
-
-((after adj3 stroke) or (post adj3 stroke) or (rehab* adj3 stroke) or (follow* adj3 stroke) OR (survivor* adj3 stroke) or (after adj3 tia) or (post adj3 tia) or (rehab* adj3 tia) or (follow* adj3 tia) or (survivor* adj3 tia) or (after adj3 (transient adj3 isch?emic adj3 attack)) OR (post adj3 (transient adj3 isch?emic adj3 attack)) or (rehab* adj3 (transient adj3 isch?emic adj3 attack)) or (follow* adj3 (transient adj3 isch?emic adj3 attack)) or (survivor* adj3 (transient adj3 isch?emic adj3 attack)) or (after adj3 (brain adj3 isch?emi$2)) or (post adj3 (brain adj3 isch?emi$2)) or (follow* adj3 (brain adj3 isch?emi$2)) or (rehab* adj3 (brain adj3 isch?emi$2)) or (survivor* adj3 (brain adj3 isch?emi$2)) or (after adj3 (brain adj3 infarct*)) or (post adj3 (brain adj3 infarct*)) or (rehab* adj3 (brain adj3 infarct*)) or (follow* adj3 (brain adj3 infarct*)) or (survivor* adj3 (brain adj3 infarct*)) or (after adj3 (cerebr* adj3 isch?emi$2)) or (post adj3 (cerebr* adj3 isch?emi$2)) or (follow* adj3 (cerebr* adj3 isch?emi$2)) or (rehab* adj3 (cerebr* adj3 isch?emi$2)) or (after adj3 (cerebr* adj3 infarct*)) or (post adj3 (cerebr* adj3 infarct*)) or (rehab* adj3 (cerebr* adj3 infarct*)) or (follow* adj3 (cerebr* adj3 infarct*)) or (survivor* adj3 (cerebr* adj3 infarct*)) or (after adj3 CVA$1) or (post adj3 CVA$1) or (rehab* adj3 CVA$1) or (follow* adj3 CVA$1) or (survivor* adj3 CVA$1) or (after adj3 cerebrovasc*) or (post adj3 cerebrovasc*) or (rehab* adj3 cerebrovasc*) or (follow* adj3 cerebrovasc*) or (survivor* adj3 cerebrovasc*) or poststroke or post-stroke).ti,ab,hw,kf.	80727
-Stroke Rehabilitation/ or exp Brain Ischemia/rh or exp Stroke/rh	17259
-1 or 2	81094
-((cogniti* adj3 impair*) or (cogniti* adj3 disorder*) or (cogniti* adj3 exam*) or (cogniti* adj3 test*) or (cogniti* adj3 function*) or (cogniti* adj3 perform*) or (cogniti* adj3 status*) or (cogniti* adj3 decline*) or (memory adj3 impair*) or (memory adj3 test*) or dementia or MMSE or "mini-mental state exam*" or "mini mental state exam*" or "minimental state exam*" or "Montreal Cognitive Assessment" or MoCA or "Informant Questionnaire on Cognitive Decline in the Elderly" or IQCODE or (neuropsychological adj3 test*) or (cognitive* adj3 dysfunction*)).ti,ab,hw,kf.	436479
-exp Neuropsychological Tests/ or cognitive dysfunction/ or dementia/ or cognition/ or cognition disorders/	383988
-4 or 5	570635
-3 and 6	7859
-PSCI.ti,ab,hw,kf.	257
-7 or 8	7919
-recurrence/ or mortality/ or mortality.fs. or secondary prevention/ or exp death/ or survival analysis/	1072332
-((recur* adj3 (stroke* or tia or isch?emi* or infarct* or cva or cerebrovasc*)) or (second* adj3 (stroke or tia or isch?emi* or infarct* or cva or cerebrovasc*)) or (repeat* adj3 (stroke or tia or isch?emi* or infarct* or cva or cerebrovasc*)) or mortality or death* or fatal* or survival).ti,ab,hw,kf.	3024573
-10 or 11	3353588
-9 and 12	1408
-exp cohort studies/ or prognosis/ or morbidity/ or "natural history".ti,ab. or prognost*.ti,ab. or course.ti,ab. or predict*.ti,ab. or outcome*.ti,ab. or cohort*.ti,ab. or disease progression/ or longitudinal.ti,ab. or trajector*.ti,ab.	6403455
-13 and 14	889
+exp stroke/ 
+stroke.mp 
+((brain or cerebral) adj3 (isch?emi$2 or infarct*)).ti,ab,kf.
+("Cerebral vascular accident*" or "cerebrovascular accident*" or CVA*).ti,ab,kf.
+1 or 2 or 3 or 4
+cogniti*.mp. 
+exp Neurocognitive Disorders/
+(dementia or MMSE or "mini-mental state exam*" or "mini mental state exam*" or "minimental state exam*" or "Montreal Cognitive Assessment" or MoCA or "Informant Questionnaire on Cognitive Decline in the Elderly" or IQCODE).ti,ab,kf.	436479
+Neuropsychological Tests/ or   Memory and Learning Tests/  
+6 or 7 or 8 or 9
+5 and 10
+(((subsequent* or second or twice or repeat* or previous* or prior or history or recur* or initial* or multiple) adj2 (stroke* OR ((brain or cerebral) adj3 (isch?emi$2 or infarct*)) OR ("Cerebral vascular accident*" or "cerebrovascular accident*" or CVA*)))).mp. or Recurrence/
+mortality/ or mortality.fs. or exp death/ or survival analysis/	or survival rate/ or (mortality or death* or fatal* or survival).mp.
+12 or 13
+11 and 14
 15 not (exp animals/ not humans.sh.)	835
 
 
