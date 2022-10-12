@@ -1,3 +1,6 @@
+( TITLE-ABS-KEY ( ( subsequent*  OR  second  OR  twice  OR  repeat*  OR  previous*  OR  prior  OR  history  OR  recur*  OR  initial*  OR  multiple )  W/2  stroke* )  OR  TITLE-ABS-KEY ( mortality  OR  death*  OR  fatal*  OR  survival ) )  AND  ( TITLE-ABS-KEY ( cogniti*  OR  dementia  OR  "Neuropsychological Test*"  OR  mmse  OR  "mini-mental state exam*"  OR  "mini mental state exam*"  OR  "minimental state exam*"  OR  "Montreal Cognitive Assessment"  OR  moca  OR  "Informant Questionnaire on Cognitive Decline in the Elderly"  OR  iqcode  OR  ( memory  W/4  test* ) ) )  AND  ( AUTHKEY ( stroke )  OR  TITLE ( stroke* )  OR  TITLE-ABS-KEY ( poststroke  OR  post-stroke  OR  psci ) )  AND NOT  ( TITLE ( ( animal  OR  animals  OR  canine*  OR  dog  OR  dogs  OR  feline  OR  hamster*  OR  lamb  OR  lambs  OR  mice  OR  monkey  OR  monkeys  OR  mouse  OR  murine  OR  pig  OR  pigs  OR  piglet*  OR  porcine  OR  primate*  OR  rabbit*  OR  rats  OR  rat  OR  rodent*  OR  sheep* )  AND NOT  ( human*  OR  patient* ) )  OR  KEY ( ( animals  OR  ( animal  W/3  experiment* )  OR  ( model*  W/3  animal* )  OR  nonhuman  OR  vertebrate* )  AND NOT  ( humans  OR  ( human  W/3  experiment* ) ) ) ) 
+3,508 results
+
 KEY(stroke) or TITLE(stroke*) or Title-Abs-Key(poststroke or post-stroke or psci)	
 TITLE-ABS-KEY(cogniti* or Dementia or "Neuropsychological Test*" or (Memory W/4 Test*) or MMSE or "mini-mental state exam*" or "mini mental state exam*" or "minimental state exam*" or "Montreal Cognitive Assessment" or MoCA or "Informant Questionnaire on Cognitive Decline in the Elderly" or IQCODE)
 Title-Abs-Key((subsequent* or second or twice or repeat* or previous* or prior or history or recur* or initial* or multiple) adj2 stroke*) or Title-Abs-Key(mortality or death* or fatal* or survival)
@@ -20,6 +23,8 @@ TITLE-ABS-KEY(cogniti* W/3 exam*) or TITLE-ABS-KEY(cogniti* W/3 disorder*) or TI
 #1 AND #2
 TITLE-ABS-KEY(PSCI)
 #3 or #4
+
+
 TITLE-ABS-KEY(recur*) or TITLE-ABS-KEY(second*) or TITLE-ABS-KEY(repeat*) or TITLE-ABS-KEY(mortality) or TITLE-ABS-KEY(death*) or TITLE-ABS-KEY(fatal*) or TITLE-ABS-KEY(survival)
 #5 AND #6
 TITLE-ABS-KEY(cohort) or TITLE-ABS-KEY(prognosis) or TITLE-ABS-KEY(morbidity) or TITLE-ABS("natural history") or TITLE-ABS(prognost*) or TITLE-ABS(course) or TITLE-ABS(predict*) or TITLE-ABS-KEY(outcome*) or TITLE-ABS-KEY(disease progression) or TITLE-ABS(longitudinal) or TITLE-ABS(trajector*)        
