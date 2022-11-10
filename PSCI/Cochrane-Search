@@ -5,6 +5,22 @@ MeSH descriptor: [Stroke] explode all trees
 MeSH descriptor: [Dementia, Vascular] this term only
 MeSH descriptor: [Neuropsychological Tests] this term only
 MeSH descriptor: [Memory and Learning Tests] this term only
+MeSH descriptor: [Dementia, Multi-Infarct] this term only
+#4 OR #5 OR #6 OR #7 OR #8
+(((subsequent* or second or twice or repeat* or previous* or prior or history or recur* or initial* or multiple) AND stroke*)):ti,ab,kw AND ((mortality or death* or fatal* or survival)):ti,ab,kw
+MeSH descriptor: [Recurrence] this term only
+#10 OR #11
+#3 AND #9 AND #12
+
+Adding dementia, multi-infarct, as above (line 8)
+
+(stroke):ti OR (poststroke OR post-stroke OR psci):ti,ab,kw     | (Word variations have been searched)
+MeSH descriptor: [Stroke] explode all trees
+#1 OR #2
+(cogniti* OR dementia or MMSE or "mini-mental state exam*" or "mini mental state exam*" or "minimental state exam*" or "Montreal Cognitive Assessment" or MoCA or "Informant Questionnaire on Cognitive Decline in the Elderly" or IQCODE):ti,ab,kw | (Word variations have been searched)
+MeSH descriptor: [Dementia, Vascular] this term only
+MeSH descriptor: [Neuropsychological Tests] this term only
+MeSH descriptor: [Memory and Learning Tests] this term only
 #4 OR #5 OR #6 OR #7
 (((subsequent* or second or twice or repeat* or previous* or prior or history or recur* or initial* or multiple) AND stroke*)):ti,ab,kw AND ((mortality or death* or fatal* or survival)):ti,ab,kw
 MeSH descriptor: [Recurrence] this term only
